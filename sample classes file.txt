@@ -1,0 +1,22 @@
+Lawman 8lit1 8lit2 7lit1 2cal1 7wri1 r1
+Fudge 8bib1 8bib2 7wri2 7lat1 7lat2
+Lundstrum 7lit2 7lit3 8log1 8log2 2cal2
+Mehringer 8bib3 7bib1 7bib2 7bib3
+Garten 7wri3 9rhe1 8wri1 8wri2 8wri3
+Freeman 8log3 8log4 2mat1 2phy1 r23
+Leigh 1lit1 1lit2 0his1 0his2
+Richardson 1rhe1 1rhe2 1his1 1his2
+Weichbrodt 2lit1 2lit1 0lit1 0lit2
+Horner 9lit1 9lit2 r3456
+Margrave 7sci1 7sci2 8sci1 8sci2
+Banduk 9lat1 9lat2 0lat1 0lat2
+Parsons 8lat1 8lat2
+
+Rosters
+8lit1 Joey Ryan Dave
+
+
+Together
+8log2 7wri1
+7lit2 7lat1
+1lit1 8bib2
